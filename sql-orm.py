@@ -90,6 +90,3 @@ for track in tracks:
         track.UnitPrice, 
         sep=" | "
         )
-
-
-
